@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0e0e0e;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 20px;
+  background-color: #1e1e1e;
+  color: white;
+  border: 1px solid #333;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #00b894;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.results {
+  margin-top: 30px;
+}
+
+.trade {
+  background-color: #1e1e1e;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
